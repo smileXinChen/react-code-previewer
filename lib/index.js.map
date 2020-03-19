@@ -1,0 +1,1 @@
+{"version":3,"sources":["../components/index.js"],"names":["Xobject"],"mappings":";;;;;;;AAAA;;;eAGe;AAAEA,EAAAA,OAAO,EAAPA;AAAF,C","sourcesContent":["import Xobject from './code-previewer';\n\nexport { Xobject };\nexport default { Xobject };"],"file":"index.js"}

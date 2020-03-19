@@ -1,0 +1,1 @@
+{"version":3,"sources":["../components/index.js"],"names":["Xobject"],"mappings":"AAAA,OAAOA,OAAP,MAAoB,kBAApB;AAEA,SAASA,OAAT;AACA,eAAe;AAAEA,EAAAA,OAAO,EAAPA;AAAF,CAAf","sourcesContent":["import Xobject from './code-previewer';\n\nexport { Xobject };\nexport default { Xobject };"],"file":"index.js"}
